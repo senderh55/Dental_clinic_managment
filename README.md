@@ -1,5 +1,5 @@
 # Dental_clinic_managment
-Dental_clinic_managment - An assignment in an operating systems course.
+Dental_clinic_managment - An assignment for operating systems course.
 
 The goal of the program is to use semaphores for efficient queue management without deadlocks.
 Each client and dentist represents wires that activate functions relevant to them.
