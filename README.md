@@ -1,5 +1,6 @@
 # Dental_clinic_managment
 Dental_clinic_managment - An assignment in an operating systems course.
+
 The goal of the program is to use semaphores for efficient queue management without deadlocks.
 Each client and dentist represents wires that activate functions relevant to them.
 The program runs in infinity loop while The queues are implemented through linked lists.
@@ -12,4 +13,6 @@ The program runs in infinity loop while The queues are implemented through linke
 * A dental hygienist can treat only one patient
 * Only after making a payment is the patient discharged
 
-### 
+### Output example
+
+![image](https://user-images.githubusercontent.com/79198595/179356434-b5201102-2b76-43af-8171-8767a8c249e8.png)
