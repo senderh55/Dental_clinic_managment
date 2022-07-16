@@ -6,7 +6,7 @@ Each client and dentist represents wires that activate functions relevant to the
 The program runs in infinity loop while The queues are implemented through linked lists.
 
 ## The clinic structure
-* There are 3 Dental Hygienist, 
+* There are 3 Dental Hygienist.
 * There is a wating room for 10 patients that include sofa where only four of the waiting patients can sit on.
 * Every patient who sits on the couch will wait there until his turn.
 * The first patient to enter is the one who will be first in line.
